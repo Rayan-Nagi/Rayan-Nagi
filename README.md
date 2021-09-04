@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayan Hassan
-- 👀 I’m interested in Machine Learning, Deep Learning, Data SCience, and IOT Applications
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, and IOT Applications
 - 🌱 I’m currently learning TensorFlow, PyTorch, SQL, and R
 - 💞️ I’m looking to collaborate on Deep Learning Tutorials
 
